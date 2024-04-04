@@ -15,3 +15,14 @@ Ce projet a été crée par Abdellah Khouden et Abderrahim Bensaid, et encadré 
   *Ajouter une emprunt(sortie ou entrée d'une livre)
   *Lister les emprunts
   *recherche d'une emprunt
+<ol>
+ <li>
+  Gestion de livres
+  <ul>
+  <li>Ajouter des livres</li>
+  <li>Lister les livres</li>
+  <li>Recherche de livres</li>
+ </ul>
+ </li>
+ 
+</ol>
